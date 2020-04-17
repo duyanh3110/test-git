@@ -5,5 +5,6 @@ const b = 2;
 const c = 99;
 
 a.push(b);
+a.push(c);
 
-console.log(a);
+console.log(a, c);
